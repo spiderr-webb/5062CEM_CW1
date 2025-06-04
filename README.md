@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the repository for my coursework 1 for the module 5062CEM Programming and Algorithms 2
+Welcome to the repository for my coursework 1 for the module 5062CEM Programming and Algorithms 2 - completed January/February 2023
 
 ## What It Does
 
