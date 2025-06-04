@@ -18,7 +18,7 @@ This program specifically uses the least significant bit method to encode the te
 
 ## How To Use
 
-To run this program, first the project directory needs to be downloaded. This should contain the following files:
+To run this program, first the following files need to be downloaded:
 - main.py
 - image_def.py
 - message_def.py
@@ -57,7 +57,3 @@ It can be run from the CLI by navigating to the project directory where test.py 
 The program can be run from the CLI by navigating to the project directory where main.py is located and running the command:
 
 `python3 main.py`
-
-## Documentation
-
-The developer documemtation for this program can be found in the wiki.
